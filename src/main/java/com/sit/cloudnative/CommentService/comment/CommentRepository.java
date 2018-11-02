@@ -1,4 +1,4 @@
-package com.sit.cloudnative.CommentService.comment;
+package com.sit.cloudnative.CommentService.Comment;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package com.sit.cloudnative.CommentService.comment;
+package com.sit.cloudnative.CommentService.Comment;
 
 import java.io.Serializable;
 import java.util.Date;

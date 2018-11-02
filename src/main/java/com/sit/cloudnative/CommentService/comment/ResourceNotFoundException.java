@@ -1,4 +1,4 @@
-package com.sit.cloudnative.CommentService.comment;
+package com.sit.cloudnative.CommentService.Comment;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
